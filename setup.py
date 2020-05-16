@@ -33,7 +33,7 @@ plugin_url = "https://github.com/ziirish/OctoPrint-TuyaSmartplug"
 plugin_license = "AGPLv3"
 
 # Any additional requirements besides OctoPrint should be listed here
-plugin_requires = ["pyaes==1.6.1","pytuya==7.0.5"]
+plugin_requires = ["pytuya==7.0.5","pyaes==1.6.1"]
 
 ### --------------------------------------------------------------------------------------------------------------------
 ### More advanced options that you usually shouldn't have to touch follow after this point
