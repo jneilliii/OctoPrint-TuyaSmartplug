@@ -5,6 +5,5 @@
 #
 # works as expected. Requirements can be found in setup.py.
 ###
-pytuya==7.0.5
 pyaes==1.6.1
-.
+pytuya==7.0.5
